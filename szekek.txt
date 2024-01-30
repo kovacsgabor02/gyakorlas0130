@@ -1,0 +1,4 @@
+Szín;Labszam
+Kék;13
+sárga;4
+Zöld;5
